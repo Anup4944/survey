@@ -187,6 +187,7 @@ import store from "../store";
 import { ref } from "vue";
 import { useRoute, useRouter } from "vue-router";
 import PageComponent from "../components/PageComponent.vue";
+import QuestionEditor from "../components/editor/QuestionEditor.vue";
 
 const router = useRouter();
 
